@@ -1,2 +1,2 @@
 # CODSOFT
-Tasks from CodSoft regarding the Java Programming internship
+Tasks from CodSoft concerning the Java Programming Internship program
